@@ -10,11 +10,13 @@
 - Puppeteer
 - Google Cloud Platform
 # Sub Stacks
+- Flutter
+- React
 - Python
 - Kivy
 - DICOM
 - PostgreSQL
-- GraphQL/Apollo Server
+- GraphQL / Apollo Server
 ##
 [![Taeyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeyoonkwon&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
