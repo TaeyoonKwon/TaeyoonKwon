@@ -11,7 +11,7 @@
 - Google Cloud Platform
 # Sub Stacks
 - Flutter
-- React
+- React / Next
 - Python
 - Kivy
 - DICOM
