@@ -9,6 +9,7 @@
 - HTML / CSS
 - Puppeteer
 - Google Cloud Platform
+- Docker
 # Sub Stacks
 - Flutter
 - React / Next
