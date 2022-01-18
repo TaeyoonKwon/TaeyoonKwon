@@ -6,13 +6,13 @@
 - Express
 - MongoDB
 - Vue / Nuxt
+- React / Next
 - HTML / CSS
 - Puppeteer
 - Google Cloud Platform
 - Docker
 # Sub Stacks
 - Flutter
-- React / Next
 - Python
 - Kivy
 - DICOM
