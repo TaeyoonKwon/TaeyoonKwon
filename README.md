@@ -8,6 +8,7 @@
 - Vue / Nuxt
 - React / Next
 - HTML / CSS
+- TailwindCSS
 - Puppeteer
 - Google Cloud Platform
 - Docker
