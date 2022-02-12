@@ -12,6 +12,9 @@
 - Puppeteer
 - Google Cloud Platform
 - Docker
+- Rust
+- Rocket.rs
+
 # Sub Stacks
 - Flutter
 - Python
