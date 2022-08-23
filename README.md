@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/S6TxPjX.png" />
+<img src="https://i.imgur.com/5mxPv00.png" />
 
 # Main Stacks
 - Node.JS
