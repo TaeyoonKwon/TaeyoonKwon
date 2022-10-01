@@ -18,6 +18,7 @@
 - Firebase
 
 # Sub Stacks
+- Solidity
 - Flutter
 - Python
 - Kivy
