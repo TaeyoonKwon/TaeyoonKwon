@@ -16,6 +16,7 @@
 - DevOps
 - Google Cloud Platform
 - Firebase
+- Web3 DApp
 
 # Sub Stacks
 - Solidity
