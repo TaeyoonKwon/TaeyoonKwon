@@ -5,8 +5,8 @@
 - Typescript
 - Express
 - MongoDB
-- Vue / Nuxt
 - React / Next
+- Vue / Nuxt
 - HTML / CSS
 - TailwindCSS
 - Puppeteer
@@ -15,6 +15,7 @@
 - Rocket.rs
 - DevOps
 - Google Cloud Platform
+- Firebase
 
 # Sub Stacks
 - Flutter
@@ -22,7 +23,6 @@
 - Kivy
 - DICOM
 - PostgreSQL
-- GraphQL / Apollo Server
 - AWS, Azure
 ##
 [![Taeyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeyoonkwon&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
