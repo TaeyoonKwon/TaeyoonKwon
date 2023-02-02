@@ -21,6 +21,7 @@
 # Sub Stacks
 - Solidity
 - Flutter
+- React Native
 - Python
 - Kivy
 - DICOM
