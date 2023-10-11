@@ -19,6 +19,8 @@
 - Web3 DApp
 
 # Sub Stacks
+- Java
+- Spring Boot
 - Solidity
 - Flutter
 - React Native
