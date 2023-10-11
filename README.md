@@ -27,6 +27,7 @@
 - Python
 - Kivy
 - DICOM
+- MySQL
 - PostgreSQL
 - AWS, Azure
 ##
