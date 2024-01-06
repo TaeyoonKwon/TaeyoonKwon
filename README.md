@@ -4,7 +4,10 @@
 - Node.JS
 - Typescript
 - Express
+- NestJS
 - MongoDB
+- MySQL
+- PostgreSQL
 - React / Next
 - Vue / Nuxt
 - HTML / CSS
@@ -14,8 +17,10 @@
 - Rust
 - Rocket.rs
 - DevOps
+- AWS
 - Google Cloud Platform
 - Firebase
+- OpenAI API
 - Web3 DApp
 
 # Sub Stacks
@@ -25,11 +30,6 @@
 - Flutter
 - React Native
 - Python
-- Kivy
-- DICOM
-- MySQL
-- PostgreSQL
-- AWS, Azure
 ##
 <!---
 [![Taeyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeyoonkwon&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
