@@ -22,6 +22,7 @@
 - Firebase
 - OpenAI API
 - Web3 DApp
+- OpenAI
 
 # Sub Stacks
 - Java
