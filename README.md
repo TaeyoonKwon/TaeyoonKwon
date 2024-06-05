@@ -22,7 +22,7 @@
 - Firebase
 - OpenAI API
 - Web3 DApp
-- OpenAI
+- Fine-tuning
 
 # Sub Stacks
 - Java
