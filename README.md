@@ -20,9 +20,9 @@
 - AWS
 - Google Cloud Platform
 - Firebase
-- OpenAI API
+- OpenAI
 - Web3 DApp
-- LLM Fine-tuning
+- LLM Fine-tuning / RAG
 
 # Sub Stacks
 - Java
