@@ -1,6 +1,10 @@
 <dl><dd><img src="https://i.imgur.com/zJyI0vG.jpeg" /></dd></dl>
 
 
+CTO, Tech Lead, Service Architect, Full Stack Web Developer, AI Application Developer
+
+https://taeyoonkwon.com
+
 # Main Stacks
 - Node.JS
 - Typescript
